@@ -1,4 +1,4 @@
 # Warsztat z CodersLab
 
 
-https://github.com/reativee/Warsztat01/blob/master
+https://reativee.github.io/Warsztat01/index.html
